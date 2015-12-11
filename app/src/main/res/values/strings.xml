@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Comunication</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGo_text">GO</string>
+    <string name="etTextInput_hint">Enter some text here!</string>
+    <string name="title_activity_display">Display Pan</string>
+    <string name="enter_text">Enter some text, please!</string>
+</resources>
